@@ -38,6 +38,7 @@ void printArray (int *arr, int size)
     }
 cout << endl;
 }
+
 int main()
 {
     const int mySize = 8;
